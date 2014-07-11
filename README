@@ -2,8 +2,8 @@ I implementated the sweepline algorithm for calculate intersections between mult
 
 The describe of sweepline algorithm can be find in the computational geometry algorithms and applications by M.de Berg
 
-I built a event queue to store the endpoint of segment, and the event queue is implementated with a avl tree.
+I built a event queue to store the endpoint of segment, and the event queue is implementated with a Red-Black tree.
 
-The state sturctrue which means the segments that intersection wich the sweepline would be store in a avl tree too.
+The state sturctrue which means the segments that intersection wich the sweepline would be store in a Red-Black tree too.
 
 And the program is wrriten by C++ languege.
